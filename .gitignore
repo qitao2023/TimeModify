@@ -1,0 +1,7 @@
+dist/
+build/
+__pycache__/
+*.spec
+*.pyc
+.DS_Store
+time_modify_config.json
